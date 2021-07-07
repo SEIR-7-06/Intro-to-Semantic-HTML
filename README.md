@@ -1,3 +1,6 @@
 # semantic-html
  
-Together we will refactor the html file to semantic naming conventions for readability.
+For this activity refactor the html file to semantic naming conventions for readability.
+
+Check out the MDN documentation for reference.
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements
